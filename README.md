@@ -1,6 +1,5 @@
 # elim/configuration.nix
 
-## How to apply
+This repository, including its full commit history, has been integrated into the <https://github.com/elim/dotfiles> repository.
 
-     cd path/to/configration.nix
-     sudo nixos-rebuild switch --flake .
+Future development of the NixOS configurations will continue within the <https://github.com/elim/dotfiles> repository. This repository is now considered superseded and will not receive further updates.
